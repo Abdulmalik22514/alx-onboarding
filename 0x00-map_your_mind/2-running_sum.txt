@@ -1,0 +1,10 @@
+﻿2-running_sum.txt
+
+
+
+
+1. Create a variable “sum”.
+2. Assign a value of zero to the sum variable.
+3. Check through the numbers for positive numbers.
+4. IF yes, add the number to the sum.
+5. IF no, end process and return current value of sum.
